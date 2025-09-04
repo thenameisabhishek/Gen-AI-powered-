@@ -1,0 +1,106 @@
+id,category,title,content,duration_min,language
+1,confused,Grounding Exercise,Take a few deep breaths and write down what is causing your confusion. Break your thoughts into smaller, manageable parts.,10,English
+2,anxious,Breathing Technique,Practice box breathing: inhale for 4 counts, hold for 4, exhale for 4, hold for 4. Repeat until you feel calmer.,5,English
+3,depressed,Sunlight Exposure,Go for a short walk outside and let yourself soak up natural light. Sunlight helps boost mood and energy.,15,English
+4,stressed,Progressive Muscle Relaxation,Tense and release each muscle group in your body slowly, starting from your toes and moving upward.,10,English
+5,sad,Expressive Writing,Write a letter to yourself expressing your feelings. Give yourself permission to feel and release sadness.,15,English
+6,happy,Gratitude Journal,Write down three things you’re grateful for today to enhance and sustain your happiness.,5,English
+7,lonely,Social Connection,Reach out to a trusted friend or family member with a message or call, even if just to say hello.,10,English
+8,excited,Mindful Pause,Take a few moments to breathe deeply and notice how excitement feels in your body. Celebrate the feeling!,5,English
+9,suicidal,Immediate Support,Call a helpline or trusted person and let them know you need support. Your life is valuable.,20,English
+10,betrayed,Self-Compassion Practice,Repeat a gentle mantra: “I am worthy of love and trust.” Focus on caring for yourself.,5,English
+11,lost,Vision Board,Spend time creating a vision board with images/words that inspire you. It may help clarify your direction.,30,English
+12,angry,Physical Release,Do a safe physical activity (like brisk walking or punching a pillow) to release anger in a healthy way.,10,English
+13,abandoned,Affirmation Mirror,Gently repeat affirmations in front of a mirror: “I am enough. I am cared for.”,5,English
+14,hopeful,Goal Setting,Write down one small goal and a step you can take toward it. Hope grows through action.,10,English
+15,aloof,Mindful Observation,Spend a few minutes observing your surroundings without judgment. Notice colors, shapes, and sounds.,5,English
+16,nonchalant,Body Scan,Scan your body for tension or discomfort. Notice if your nonchalance hides stress or fatigue.,5,English
+17,apprehensive,Journaling,Writes out your worries and possible outcomes. This can help lessen your apprehension.,10,English
+18,dark,Light Therapy,Sit near a window or light source and let yourself absorb warmth and brightness.,15,English
+19,dejected,Supportive Message,Text a friend or loved one and let them know you need encouragement.,5,English
+20,rejected,Self-Care Ritual,Do something kind for yourself, such as making tea or taking a warm bath.,20,English
+21,gloomy,Fresh Air,Open a window or step outside for fresh air; it can lift a gloomy mood.,5,English
+22,erratic,Routine Planning,Write down a simple routine for the next few hours to bring structure and calm.,10,English
+23,horny,Physical Activity,Channel energy into safe physical exercise, such as yoga or dancing.,15,English
+24,fearful,Safe Space Visualization,Visualize a place where you feel completely safe and imagine yourself there.,5,English
+25,glum,Music Therapy,Play music that soothes you; let yourself relax into the sound.,10,English
+26,heartbroken,Comfort Objects,Hold a comforting object (like a soft blanket or stuffed animal) to soothe yourself.,5,English
+27,hostile,Anger Journaling,Write down what triggered your hostility and how you might respond differently.,10,English
+28,impatient,Gratitude Pause,Pause and list one thing you appreciate about the present moment.,5,English
+29,miserable,Shower Ritual,Take a warm shower, imagining the water washing away misery with each drop.,15,English
+30,jealous,Self-Awareness Exercise,Acknowledge your feelings without judgment. Write down your strengths and achievements.,10,English
+31,possessive,Letting Go Meditation,Practice a short meditation focused on releasing control and trusting others.,10,English
+32,mournful,Memory Box,Create a box of comforting memories or objects that remind you of love and support.,20,English
+33,nervous,Preparation Practice,Prepare for the upcoming event by rehearsing or visualizing success.,15,English
+34,overwhelmed,Prioritization List,Write down tasks and prioritize them. Focus on one thing at a time.,10,English
+35,ominous,Reality Check,List what is actually happening versus what you fear might happen.,10,English
+36,pessimistic,Positivity Practice,Write down two positive things that happened today, however small.,5,English
+37,resentful,Releasing Exercise,Write a letter expressing your resentment, then safely destroy it to let go.,15,English
+38,restless,Movement Break,Stand up and stretch, walk around, or do a quick movement routine.,5,English
+39,solemn,Reflective Reading,Read a poem or passage that resonates with your mood and reflect on its meaning.,10,English
+40,tense,Neck + Shoulder Stretch,Do gentle neck and shoulder stretches to release physical tension.,5,English
+41,uneasy,Comfort Drink,Make yourself a soothing drink, such as herbal tea, and enjoy it mindfully.,10,English
+42,unfriendly,Kindness Act,Do one small act of kindness for someone else, even anonymously.,10,English
+43,unstable,Stability Anchor,Identify one thing that feels stable in your life and focus on it for a few minutes.,5,English
+44,unsteady,Balance Practice,Stand on one foot and focus on keeping your balance; switch feet after a minute.,2,English
+45,wretched,Care Ritual,Wrap yourself in a blanket and rest with calming music or silence.,10,English
+46,defensive,Pause Response,When you feel defensive, pause before responding. Take three deep breaths.,2,English
+47,nostalgic,Photo Time,Look at old photos and allow yourself to reminisce, then gently return to the present.,10,English
+48,perky,Dance Break,Put on upbeat music and dance for a few minutes.,5,English
+49,playful,Creative Play,Draw, doodle, or play a simple game to nurture your playful side.,10,English
+50,light-hearted,Laughter Therapy,Watch a funny video or recall a humorous memory.,10,English
+51,fun,Try Something New,Experiment with a new hobby or activity just for fun.,20,English
+52,cheerful,Share Joy,Send a cheerful message or meme to someone you care about.,5,English
+53,passionate,Project Focus,Spend time on a project you’re passionate about, even if just a few minutes.,15,English
+54,peaceful,Guided Meditation,Listen to a short guided meditation for peace and relaxation.,10,English
+55,reflective,Journal Reflection,Write about a recent experience and what you learned from it.,15,English
+56,shy,Small Social Step,Challenge yourself to speak with someone new, even briefly.,5,English
+57,sentimental,Memory Sharing,Share a favorite memory with a friend or family member.,10,English
+58,strange,Self-Discovery,Write down what feels strange and why; explore without judgment.,10,English
+59,weird,Celebrate Uniqueness,List three things that make you special and celebrate them.,5,English
+60,unknown,Body Awareness,Do a quick body scan to check in with yourself and notice your mood.,5,English
+61,unaffected,Nature Walk,Take a walk outdoors and notice details in your environment.,15,English
+62,vivacious,Group Activity,Join a group activity or class to channel your energy.,30,English
+63,regretful,Forgiveness Exercise,Write down what you regret and say out loud, “I forgive myself.”,10,English
+64,guilty,Apology Letter,Write a letter of apology, whether you send it or not. Reflect on your growth.,10,English
+65,scared,Comforting Routine,Do something familiar and comforting, such as reading a favorite book.,15,English
+66,sorrowful,Gentle Movement,Do gentle yoga or stretching to process sorrow physically and emotionally.,15,English
+67,laid-back,Leisure Time,Enjoy a leisure activity without any pressure or expectations.,30,English
+68,unmotivated,Small Win List,List one small thing you accomplished today, no matter how minor.,5,English
+69,motivated,Vision Planning,Set a new goal and map out steps to achieve it.,20,English
+70,horrified,Safe Space,Go to a safe, comforting space and focus on deep, slow breaths.,15,English
+71,daunted,Affirmation Practice,Repeat affirmations: “I am capable. I can handle this.”,5,English
+72,intimidated,Skill Building,Practice a skill related to what intimidates you in small, manageable steps.,15,English
+73,sunny,Sunshine Break,Spend time in sunlight, even if just sitting by a window.,10,English
+74,energetic,Active Exercise,Go for a brisk walk, run, or do a short workout.,20,English
+75,breezy,Mindful Breathing,Open a window and take several deep breaths, feeling the breeze.,5,English
+76,bright,Creative Expression,Express yourself through art or writing about what makes you feel bright.,15,English
+77,terrified,Grounding Exercise,Look around and name five things you see. Remind yourself you are safe.,5,English
+78,exhausted,Rest Break,Lie down and close your eyes for a short, restorative break.,15,English
+79,burnt-out,Technology Detox,Take a break from screens and rest with a calming activity.,20,English
+80,fatigued,Hydration and Rest,Drink water and rest for a few minutes.,10,English
+81,animated,Expressive Movement,Move your body expressively to channel your energy, such as dancing or stretching.,10,English
+82,alienated,Online Connection,Join an online community or forum to connect with others.,20,English
+83,isolated,Pet Therapy,Spend time with a pet or watch videos of animals for comfort.,15,English
+84,zestful,Challenge Yourself,Try a new challenge or activity to use your zest for life.,20,English
+85,afraid,Affirmation Writing,Write down three things that make you feel safe and keep the list nearby.,10,English
+86,rejuvenated,Self-Celebration,Celebrate your rejuvenation by treating yourself to something you love.,15,English
+87,disheartened,Encouragement Notes,Write a note of encouragement to yourself or others.,10,English
+88,mellow,Relaxation Ritual,Listen to calming music and let yourself unwind.,15,English
+89,placid,Mindful Observation,Sit quietly and observe your thoughts without judgment.,10,English
+90,pensive,Quiet Reflection,Spend time alone in quiet, reflecting on your thoughts and feelings.,15,English
+91,weary,Early Bedtime,Go to bed early or take a nap to restore your energy.,30,English
+92,disturbed,Support Call,Call or text a trusted person to share your feelings and seek support.,15,English
+93,agitated,Calm Breathing,Practice slow, deep breathing until agitation lessens.,5,English
+94,content,Mindful Eating,Prepare and eat a meal mindfully, savoring each bite.,20,English
+95,wistful,Dream Journal,Write down your hopes and dreams for the future.,10,English
+96,burdened,Delegate Task,Ask for help or delegate a task to lighten your load.,15,English
+97,grieving,Grief Ritual,Light a candle and spend a few minutes honoring your feelings and memories.,15,English
+98,dismayed,Hope Search,Write down two things that give you hope, however small.,10,English
+99,troubled,Problem Solving,Break down your troubles and brainstorm possible solutions.,20,English
+100,disconcerted,Reality Affirmation,Repeat: “I am safe and capable of handling change.”,5,English
+101,panicked,Emergency Breathing,Place your hand on your heart and take slow, deep breaths until panic subsides.,10,English
+102,soothed,Aromatherapy,Use a calming scent like lavender or chamomile to help soothe yourself.,5,English
+103,serene,Gratitude Meditation,Reflect on things you’re grateful for in a short meditation.,10,English
+104,joyful,Joy Sharing,Share your joy with someone else through a message or call.,5,English
+105,melancholy,Gentle Reading,Read a comforting book or poem to ease melancholy feelings.,15,English

@@ -1,0 +1,106 @@
+id,mood_tag,text,tone,language,safety_flag
+1,confused,"You are doing your best to understand; take your time and trust yourself.",supportive,English,safe
+2,anxious,"You can breathe through this moment; your feelings are valid.",calming,English,safe
+3,depressed,"You are not alone and your pain matters; brighter days are possible.",hopeful,English,safe
+4,stressed,"You have overcome challenges before, and you can handle this too.",reassuring,English,safe
+5,sad,"It's okay to feel sad; let yourself rest and heal.",gentle,English,safe
+6,happy,"Celebrate your happiness and share your light with others.",uplifting,English,safe
+7,lonely,"Even when you feel alone, you are deeply valued and loved.",comforting,English,safe
+8,excited,"Your excitement is a sign of wonderful things ahead—enjoy every moment!",joyful,English,safe
+9,suicidal,"You matter. Please reach out for help; you deserve support and care.",urgent,English,flag
+10,betrayed,"Your trust was broken, but you can rebuild and protect your heart.",validating,English,safe
+11,lost,"It's okay to not have all the answers; your path will become clearer.",gentle,English,safe
+12,angry,"Your anger is valid; let it pass and express it in healthy ways.",grounded,English,safe
+13,abandoned,"You are worthy of love and care, regardless of who left.",reassuring,English,safe
+14,hopeful,"Hold onto hope—it can guide you toward healing and happiness.",encouraging,English,safe
+15,aloof,"It’s okay to take space and reflect; your boundaries are valuable.",accepting,English,safe
+16,nonchalant,"Your calmness can help you weather any storm.",neutral,English,safe
+17,apprehensive,"You are courageous for facing uncertainty; trust yourself.",encouraging,English,safe
+18,dark,"Even in darkness, a spark of light remains for you.",reassuring,English,safe
+19,dejected,"You will find strength again; this feeling is temporary.",gentle,English,safe
+20,rejected,"Rejection does not define your worth; you are valuable.",validating,English,safe
+21,gloomy,"Clouds pass, and so will this mood; brighter moments await.",hopeful,English,safe
+22,erratic,"It's okay to feel unpredictable; take time to ground yourself.",calming,English,safe
+23,horny,"Your desires are natural; honor them with respect and care.",neutral,English,safe
+24,fearful,"You are safe right now; courage grows with every step.",reassuring,English,safe
+25,glum,"Your sadness is understood; let yourself rest and recover.",gentle,English,safe
+26,heartbroken,"Healing takes time; you are strong enough to mend.",supportive,English,safe
+27,hostile,"Your feelings are powerful—channel them into positive change.",transforming,English,safe
+28,impatient,"Patience is difficult but rewarding; progress will come.",encouraging,English,safe
+29,miserable,"You are allowed to feel miserable; comfort is possible.",gentle,English,safe
+30,jealous,"Your feelings are normal; focus on your own growth and joy.",supportive,English,safe
+31,possessive,"Letting go empowers you and your relationships.",encouraging,English,safe
+32,mournful,"Your grief is sacred; honor your feelings and memories.",gentle,English,safe
+33,nervous,"You can do this; each step forward is a victory.",encouraging,English,safe
+34,overwhelmed,"Pause and breathe; you are capable of handling things one at a time.",reassuring,English,safe
+35,ominous,"Even when things seem uncertain, you can find your way.",reassuring,English,safe
+36,pessimistic,"Your perspective matters; hope can grow in unlikely places.",hopeful,English,safe
+37,resentful,"Forgiveness is a gift for yourself; you deserve peace.",healing,English,safe
+38,restless,"Channel your energy into something positive; movement helps.",motivating,English,safe
+39,solemn,"Your thoughtful nature is a strength; honor your feelings.",accepting,English,safe
+40,tense,"Relax your body and mind; you deserve calm.",calming,English,safe
+41,uneasy,"Trust yourself to navigate this; you are resilient.",reassuring,English,safe
+42,unfriendly,"It’s okay to need space; kindness starts with yourself.",gentle,English,safe
+43,unstable,"You are not alone; support is available as you seek stability.",supportive,English,safe
+44,unsteady,"One step at a time; you will find your balance again.",reassuring,English,safe
+45,wretched,"No feeling lasts forever; you are stronger than you know.",hopeful,English,safe
+46,defensive,"Your boundaries are valid; protect your peace.",affirming,English,safe
+47,nostalgic,"Your memories are precious; cherish them and move forward.",reflective,English,safe
+48,perky,"Your energy lifts others; celebrate your vibrance.",uplifting,English,safe
+49,playful,"Enjoy your playfulness; laughter is healing.",cheerful,English,safe
+50,light-hearted,"Your light heart brightens every day; share your joy.",uplifting,English,safe
+51,fun,"Find joy in little things; fun is essential to life.",cheerful,English,safe
+52,cheerful,"Your smile is a gift to the world.",uplifting,English,safe
+53,passionate,"Your passion is powerful; let it guide your dreams.",motivating,English,safe
+54,peaceful,"Embrace your peace; you are calm and safe.",calming,English,safe
+55,reflective,"Your self-awareness will help you grow and heal.",thoughtful,English,safe
+56,shy,"Your quiet strength is beautiful; you are enough.",gentle,English,safe
+57,sentimental,"Honor your feelings; they are part of your story.",reflective,English,safe
+58,strange,"You are unique and wonderful just as you are.",affirming,English,safe
+59,weird,"Your weirdness is your strength; embrace it!",uplifting,English,safe
+60,unknown,"It’s okay to not know right now; clarity will come.",gentle,English,safe
+61,unaffected,"Your calm presence is grounding for yourself and others.",neutral,English,safe
+62,vivacious,"Your zest for life inspires everyone around you.",cheerful,English,safe
+63,regretful,"Release your regrets; you are free to start anew.",healing,English,safe
+64,guilty,"Forgive yourself; you deserve compassion and understanding.",gentle,English,safe
+65,scared,"You are safe and protected; courage grows with time.",reassuring,English,safe
+66,sorrowful,"Your sorrow is honored; healing is possible.",gentle,English,safe
+67,laid-back,"Your easygoing nature is a gift; enjoy your peace.",calming,English,safe
+68,unmotivated,"Small steps matter; motivation will return.",encouraging,English,safe
+69,motivated,"Your drive will help you reach your goals.",supportive,English,safe
+70,horrified,"You are safe now; take time to recover and seek support.",urgent,English,safe
+71,daunted,"Every challenge is a chance to grow; you are capable.",encouraging,English,safe
+72,intimidated,"You are stronger than your fears; trust yourself.",reassuring,English,safe
+73,sunny,"Your optimism is contagious; keep shining.",uplifting,English,safe
+74,energetic,"Channel your energy into what brings you joy.",motivating,English,safe
+75,breezy,"Let yourself relax and enjoy the moment.",calming,English,safe
+76,bright,"Your brightness lights up every room you enter.",uplifting,English,safe
+77,terrified,"You are not alone; support is available to help you.",urgent,English,safe
+78,exhausted,"Rest is important; you deserve to take a break.",gentle,English,safe
+79,burnt-out,"You are allowed to pause and replenish your energy.",gentle,English,safe
+80,fatigued,"Take care of yourself; rest is healing.",gentle,English,safe
+81,animated,"Your enthusiasm brings joy to others.",cheerful,English,safe
+82,alienated,"You belong and are valued, even when you feel apart.",comforting,English,safe
+83,isolated,"You are not alone; connection is possible.",reassuring,English,safe
+84,zestful,"Your zest inspires others; keep embracing life.",uplifting,English,safe
+85,afraid,"Face your fears gently; you are safe here.",reassuring,English,safe
+86,rejuvenated,"Your renewed energy will help you move forward.",supportive,English,safe
+87,disheartened,"You will find hope again; this feeling will pass.",gentle,English,safe
+88,mellow,"Enjoy your calm and gentle spirit.",calming,English,safe
+89,placid,"Your tranquility is soothing to those around you.",calming,English,safe
+90,pensive,"Your thoughts are important; take time to reflect.",thoughtful,English,safe
+91,weary,"Rest and healing are on the way; take care of yourself.",gentle,English,safe
+92,disturbed,"Reach out for support; you are not alone in this.",comforting,English,safe
+93,agitated,"Pause and breathe; calm will return.",calming,English,safe
+94,content,"Appreciate your peaceful moments; you deserve them.",gentle,English,safe
+95,wistful,"Cherish your dreams; new opportunities will come.",hopeful,English,safe
+96,burdened,"You are not meant to carry everything alone; seek support.",reassuring,English,safe
+97,grieving,"Your grief is valid; take time to heal.",gentle,English,safe
+98,dismayed,"You will find understanding and comfort again.",gentle,English,safe
+99,troubled,"You are stronger than your troubles; keep moving forward.",supportive,English,safe
+100,disconcerted,"Uncertainty passes; you will find stability.",reassuring,English,safe
+101,panicked,"Slow down and breathe; help is available.",urgent,English,safe
+102,soothed,"Enjoy your calm and comfort; you deserve this peace.",gentle,English,safe
+103,serene,"Your serenity brings strength and clarity.",calming,English,safe
+104,joyful,"Let your joy fill every part of your day.",uplifting,English,safe
+105,melancholy,"You are allowed to feel this way; healing will come.",gentle,English,safe

@@ -1,0 +1,106 @@
+id,example_text,mood_label,notes
+1,I feel confused,confused,Uncertain or unclear about thoughts or decisions.
+2,I feel anxious,anxious,Experiencing worry or nervousness.
+3,I feel depressed,depressed,Feeling persistently sad or hopeless.
+4,I am stressed,stressed,Feeling pressure or overwhelmed.
+5,I feel sad,sad,Low mood or sorrow.
+6,I feel happy,happy,Feeling joyful or content.
+7,I feel lonely,lonely,Feeling isolated or without support.
+8,I am excited,excited,Positive anticipation or enthusiasm.
+9,I feel suicidal,suicidal,Having thoughts about ending life.
+10,I feel betrayed,betrayed,Trust broken by another.
+11,I feel lost,lost,Uncertain about direction or purpose.
+12,I am angry,angry,Feeling frustration or rage.
+13,I feel abandoned,abandoned,Feeling left behind or neglected.
+14,I feel hopeful,hopeful,Optimistic for the future.
+15,I feel aloof,aloof,Distant or detached from others.
+16,I am nonchalant,nonchalant,Unconcerned or indifferent.
+17,I feel apprehensive,apprehensive,Uneasy or fearful about the future.
+18,I feel dark,dark,Having heavy or negative thoughts.
+19,I am dejected,dejected,Disheartened or dispirited.
+20,I feel rejected,rejected,Feeling unwanted or excluded.
+21,I feel gloomy,gloomy,Downcast or bleak.
+22,I am erratic,erratic,Unpredictable or inconsistent.
+23,I feel horny,horny,Experiencing sexual desire.
+24,I feel fearful,fearful,Afraid or scared.
+25,I feel glum,glum,Downhearted or sad.
+26,I am heartbroken,heartbroken,Experiencing emotional pain from loss.
+27,I feel hostile,hostile,Angry or antagonistic.
+28,I feel impatient,impatient,Unable to wait calmly.
+29,I am miserable,miserable,Extremely unhappy.
+30,I feel jealous,jealous,Envious or resentful.
+31,I am possessive,possessive,Wanting to control or own.
+32,I feel mournful,mournful,Sorrowful due to loss.
+33,I feel nervous,nervous,Anxious or tense.
+34,I am overwhelmed,overwhelmed,Feeling unable to cope.
+35,I feel ominous,ominous,Sense of impending danger.
+36,I am pessimistic,pessimistic,Expecting negative outcomes.
+37,I feel resentful,resentful,Holding grudges or bitterness.
+38,I am restless,restless,Unable to relax or be still.
+39,I feel solemn,solemn,Sincere but serious mood.
+40,I feel tense,tense,Stressed or tight.
+41,I am uneasy,uneasy,Feeling uncomfortable or unsure.
+42,I feel unfriendly,unfriendly,Cold or distant to others.
+43,I am unstable,unstable,Emotionally or mentally unsteady.
+44,I feel unsteady,unsteady,Insecure or wavering.
+45,I am wretched,wretched,Deeply unhappy or in distress.
+46,I feel defensive,defensive,Feeling attacked or protective.
+47,I feel nostalgic,nostalgic,Longing for the past.
+48,I am perky,perky,Cheerful and energetic.
+49,I feel playful,playful,Light-hearted or fun-loving.
+50,I am light-hearted,light-hearted,Carefree and cheerful.
+51,I feel fun,fun,Enjoying oneself.
+52,I am cheerful,cheerful,Happy and optimistic.
+53,I feel passionate,passionate,Strong feelings or enthusiasm.
+54,I am peaceful,peaceful,Calm and tranquil.
+55,I feel reflective,reflective,Thoughtful or contemplative.
+56,I am shy,shy,Reserved or timid.
+57,I feel sentimental,sentimental,Emotional or nostalgic.
+58,I feel strange,strange,Feeling odd or unusual.
+59,I am weird,weird,Feeling different or peculiar.
+60,I feel unknown,unknown,Unable to identify current mood.
+61,I feel unaffected,unaffected,Not influenced or impacted.
+62,I am vivacious,vivacious,Full of life and energy.
+63,I feel regretful,regretful,Feeling sorry for past actions.
+64,I feel guilty,guilty,Feeling responsible for wrongdoing.
+65,I am scared,scared,Fearful or afraid.
+66,I feel sorrowful,sorrowful,Full of sorrow or grief.
+67,I am laid-back,laid-back,Relaxed and easygoing.
+68,I feel unmotivated,unmotivated,Lacking the drive to act.
+69,I am motivated,motivated,Driven and inspired.
+70,I feel horrified,horrified,Shocked or terrified.
+71,I am daunted,daunted,Intimidated or discouraged.
+72,I feel intimidated,intimidated,Fearful due to perceived threat.
+73,I feel sunny,sunny,Bright and cheerful.
+74,I am energetic,energetic,Full of energy and vitality.
+75,I feel breezy,breezy,Carefree and light.
+76,I am bright,bright,Happy and lively.
+77,I feel terrified,terrified,Extremely scared.
+78,I am exhausted,exhausted,Very tired or drained.
+79,I feel burnt-out,burnt-out,Emotionally and physically spent.
+80,I am fatigued,fatigued,Extreme tiredness.
+81,I feel animated,animated,Lively and enthusiastic.
+82,I am alienated,alienated,Feeling isolated or estranged.
+83,I feel isolated,isolated,Separated from others.
+84,I am zestful,zestful,Full of enthusiasm and energy.
+85,I feel afraid,afraid,Feeling fear.
+86,I am rejuvenated,rejuvenated,Refreshed or renewed.
+87,I feel disheartened,disheartened,Discouraged or disappointed.
+88,I am mellow,mellow,Calm and relaxed.
+89,I feel placid,placid,Peaceful and calm.
+90,I am pensive,pensive,Deeply or seriously thoughtful.
+91,I feel weary,weary,Physically or mentally tired.
+92,I am disturbed,disturbed,Troubled or upset.
+93,I feel agitated,agitated,Restless or troubled.
+94,I am content,content,Satisfied and at ease.
+95,I feel wistful,wistful,Longing or yearning.
+96,I am burdened,burdened,Carrying heavy emotional load.
+97,I feel grieving,grieving,Deep sorrow from loss.
+98,I am dismayed,dismayed,Distressed or disappointed.
+99,I feel troubled,troubled,Concerned or worried.
+100,I am disconcerted,disconcerted,Feeling unsettled.
+101,I feel panicked,panicked,Sudden intense fear or anxiety.
+102,I am soothed,soothed,Calmed or comforted.
+103,I feel serene,serene,Calm and peaceful.
+104,I am joyful,joyful,Extremely happy.
+105,I feel melancholy,melancholy,Sadness or depression.
